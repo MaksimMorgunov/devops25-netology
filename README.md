@@ -24,3 +24,5 @@ Your branch is up to date with 'origin/main'.
 nothing to commit, working tree clean
 
 C:\Users\Лена\devops25-netology>
+
+root@debian:/home/firewall# git clone git@github.com:MaksimMorgunov/devops25-netology.git
